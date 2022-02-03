@@ -1,0 +1,26 @@
+_________ Travel itinerary for Alita Jonhansson_________
+Full Name: Alita Jonhansson
+Depature: LAX
+Arrival: New York
+Depature Date/Time: 02/22/2022 10AM
+Return Date/Time: 03/01/2022 10AM
+Number of Passengers: 2
+Seat of Class: 3
+Tickets Cost: $4320
+
+
+***** Thank you! The flight has been booked on Feb  2 2022 at 17:58:29. *****
+
+_________ Travel itinerary for Jeremy Franklin_________
+Full Name: Jeremy Franklin
+Depature: San Diego
+Arrival: Seattle
+Depature Date/Time: 05/23/2022 5PM
+Return Date/Time: 05/30/2022 5PM
+Number of Passengers: 3
+Seat of Class: 2
+Tickets Cost: $4860
+
+
+***** Thank you! The flight has been booked on Feb  2 2022 at 17:58:29. *****
+

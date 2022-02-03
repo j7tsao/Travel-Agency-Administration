@@ -1,0 +1,14 @@
+
+_________ Car Rental Info Summary_________
+
+Full Name: Alita Jonhansson
+Car chosen: Mini Van - 5 Adults, 5 Bags. $48/day
+Days of Rental: 14 Days 
+Car Rental Cost: $672
+
+_________ Car Rental Info Summary_________
+
+Full Name: Jeremy Franklin
+Car chosen: Standard - 5 Adults, 2 Bags. $33/day
+Days of Rental: 7 Days 
+Car Rental Cost: $231

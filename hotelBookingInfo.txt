@@ -1,0 +1,14 @@
+
+_________ Hotel Booking Charge _________
+
+Full Name: Alita Jonhansson
+Check-in Date: 02/22/2022
+Days of stay: 15
+Hotel Cost: $3598.35
+
+_________ Hotel Booking Charge _________
+
+Full Name: Jeremy Franklin
+Check-in Date: 05/23/2022
+Days of stay: 7
+Hotel Cost: $1393.00
