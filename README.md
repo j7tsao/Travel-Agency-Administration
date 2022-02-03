@@ -36,4 +36,5 @@ A mimic program for travel agency administration system using C++
 |Exit               | Exit the program
 
 <br><br>
-![alt text](https://i.postimg.cc/rwkzDZ19/Screenshot-2022-02-03-124953.jpg)
+
+<img src="https://i.postimg.cc/rwkzDZ19/Screenshot-2022-02-03-124953.jpg" width="70%" height="70%">
